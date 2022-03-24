@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **react.js , Flutter and React Native**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter** && **NextJs**
 
 - 💬 Ask me about **react.js**
 
