@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zain</h1>
-<h3 align="center">A developer, tech enthusiast from Pakistan.</h3>
+<h3 align="center">A developer, tech enthusiast from Pakistan.<img align="center" src="https://github.githubassets.com/images/mona-loading-default.gif" alt="zainhaidernaqvi" height="30" width="40" /></h3>
 
 - 🔭 I’m currently working on **react.js , Flutter and React Native**
 
