@@ -1,5 +1,36 @@
-<h1 align="center">Hi 👋, I'm Zain</h1>
-<h3 align="center">A developer, tech enthusiast from Pakistan.<img align="center" src="https://github.githubassets.com/images/mona-loading-default.gif" alt="zainhaidernaqvi" height="30" width="40" /></h3>
+### Hey there, I'm Zain <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<div align="center">
+<p align="center">Let's connect!</p>
+<a href="https://www.twitter.com/ZAINHAIDERNaqv2/">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/nzainhaider/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="#">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="#">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+
+<a href="https://www.facebook.com/zainhaider.naqvi.58/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<a href="#">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+</a>
+</div>
+
+
+### A Student, Developer & Singer
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/mhmzdev/mhmzdev/master/code.gif" width="500" height="320" />
 
 - 🔭 I’m currently working on **react.js , Flutter and React Native**
 
@@ -11,12 +42,7 @@
 
 - 📫 How to reach me **syedzainnaqvi3324@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ZAINHAIDERNaqv2" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zainhaidernaqvi" height="30" width="40" /></a>
-<a href="https://www.instagram.com/nzainhaider/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zainhaider" height="30" width="40" /></a>
-   <a href="https://www.facebook.com/zainhaider.naqvi.58" target="_blank"><img align="center" src="https://desiprogrammer.com/static/icons/facebook.svg" alt="zainhaidernaqvi" height="50" width="40" /></a>
-</p>
+<br><br><br><br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a><a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
