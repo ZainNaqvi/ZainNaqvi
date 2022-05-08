@@ -32,15 +32,13 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/mhmzdev/mhmzdev/master/code.gif" width="500" height="320" />
 
-- 🔭 I’m currently working on **react.js , Flutter and React Native**
+- A result-oriented creative with a knack for solving interesting problems.
 
-- 🌱 I’m currently learning **Flutter** && **NextJs**
+- My background and area of focus is Fullstack Web Development with a preference for everything/anything backend. 
 
-- 💬 Ask me about **react.js**
+- I love creating seamless, user-friendly experiences in the projects that I pick up and work on.
 
-- 👨‍💻 Visit [www.syedzainhaidernaqvi.com/](http://syedzainhaidernaqvi.herokuapp.com/)
 
-- 📫 How to reach me **syedzainnaqvi3324@gmail.com**
 
 <br><br><br><br>
 
