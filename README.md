@@ -1,4 +1,4 @@
-### Hey there, I'm Zain <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there, I'm Zain  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"/>
 
 <div align="center">
 <p align="center">Let's connect!</p>
@@ -30,15 +30,14 @@
 
 ### A Student, Developer & Singer
 
-<div align="left">
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-</div>
-<div align="left">
-  - A result-oriented creative with a knack for solving interesting problems.
+<div>
+- A result-oriented creative with a knack for solving interesting problems.
 
 - My background and area of focus is Fullstack Web Development with a preference for everything/anything backend. 
 
 - I love creating seamless, user-friendly experiences in the projects that I pick up and work on.
+
+<img alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 </div>
 
 
