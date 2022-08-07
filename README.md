@@ -63,7 +63,7 @@
 
 </p>
 <img src="https://komarev.com/ghpvc/?username=zainnaqvi&color=blueviolet"/> 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZainNaqvi&show_icons=true&locale=en" alt="zain" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zainnaqvi&show_icons=true&locale=en" alt="zain" />
   
 
 </p>
