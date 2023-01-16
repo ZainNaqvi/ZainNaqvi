@@ -18,7 +18,7 @@ My **Android** (**Kotlin**, **Java**) Development background includes working in
 <br />
 <div style="display: flex; align-items: center;">
     
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chayanforyou&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zainnaqvi&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
     
 [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zainnaqvi&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
   [![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zainnaqvi&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
