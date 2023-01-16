@@ -17,9 +17,11 @@ My **Android** (**Kotlin**, **Java**) Development background includes working in
   
 <br />
 <div style="display: flex; align-items: center;">
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=zainnaqvi&show_icons=true&count_private=true&hide_title=false&theme=dracula" alt="imaNNeoFighT's Github Stats" />
-
-<img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=zainnaqvi&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="imaNNeoFighT's GitHub Streaks" />
+    
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chayanforyou&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+    
+[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zainnaqvi&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  [![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zainnaqvi&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 </div>
 
 
