@@ -9,11 +9,12 @@ My **Android** (**Kotlin**, **Java**) Development background includes working in
     
 
 * 📫 How to reach me:
-    * zainhaider@devnatives.com
     * [Twitter](https://twitter.com/ZAINHAIDERNaqv2/)
     * [Linkedin](https://www.linkedin.com/in/zain-haider-naqvi-flutter-developer-613582238)
 
-* ⚡ Fun fact: I chose **NeO** as my nickname before I watch [the Matrix movie](https://en.wikipedia.org/wiki/The_Matrix_(franchise))!
+* ⚡ Fun fact:<br/><br/>
+Did you know that the first computer programmer was a woman named Ada Lovelace? As a Flutter programmer and history enthusiast, I'm proud to follow in her footsteps! Do you want to know About him? Ada Lovelace!
+Did you know that Adi Shamir, the co-inventor of the RSA encryption algorithm, has a name that is actually an acronym for the key-sharing technique used in the algorithm? "Shamir" stands for "Splitting, Hiding, And, Mirroring."Adi Shamir!
   
 <br />
 <div style="display: flex; align-items: center;">
