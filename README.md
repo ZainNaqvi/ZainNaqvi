@@ -9,6 +9,7 @@ My **Android** (**Kotlin**, **Java**) Development background includes working in
     
 
 * 📫 How to reach me:
+    * [Gmail](www.syedzainnaqvi3324@gmail.com)
     * [Twitter](https://twitter.com/ZAINHAIDERNaqv2/)
     * [Linkedin](https://www.linkedin.com/in/zain-haider-naqvi-flutter-developer-613582238)
 
