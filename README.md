@@ -43,7 +43,7 @@ open_to: Collaboration & new opportunities
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🧱 Food Guardian</h3>
+      <h3 align="center">🧱 Kitchen's Guardian</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Clean_Arch-blueviolet?style=flat-square"/>
