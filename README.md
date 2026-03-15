@@ -26,7 +26,7 @@
 
 ```yaml
 name: Syed Zain-Naqvi
-role: Senior Mobile App Developer
+role: Mobile App Developer II
 focus: Flutter · Clean Architecture · Bloc
 location: Pakistan 🇵🇰
 currently: Building production Flutter apps
